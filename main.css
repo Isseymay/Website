@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+* { box-sizing: border-box; }
+
+div{
+  display: inline-block;
+  margin-top:40px;
+  margin-bottom: 40px;
+  colour:white;
+  background-image: url(tealight.jpg);
+  background-size:cover;
+  font-family: 'Playfair Display', serif;
+}
+body{
+  text-align: center;
+  
+}
+h3{
+  text-align: left;
+  margin-left: 100px;
